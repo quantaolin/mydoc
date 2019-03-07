@@ -7,3 +7,4 @@ download goru from git:https://github.com/golang/tools and copy file to gopath/s
 install git from https://gitforwindows.org/
 install mingw from https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/rubenvb/gcc-4.8-release/
 excute command:go get git.apache.org/thrift.git/lib/go/thrift
+download thrift compiler from https://thrift.apache.org/download
