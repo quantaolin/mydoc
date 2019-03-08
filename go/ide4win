@@ -6,5 +6,5 @@ download godef from git:https://github.com/rogpeppe/godef and copy file to gopat
 download goru from git:https://github.com/golang/tools and copy file to gopath/src/golang.org/x and excute command : go build tools/cmd/guru. then config goru in eclipse
 install git from https://gitforwindows.org/
 install mingw from https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/rubenvb/gcc-4.8-release/
-excute command:go get git.apache.org/thrift.git/lib/go/thrift
+excute command:go get github.com/apache/thrift/lib/go/thrift
 download thrift compiler from https://thrift.apache.org/download and config path into environment variable
