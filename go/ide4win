@@ -2,8 +2,8 @@ download and install go from url:https://golang.org/dl/
 install eclipse from web（https://www.eclipse.org/downloads/）
 install new software in eclipse from url:http://goclipse.github.io/releases/ (help:https://github.com/GoClipse/goclipse/blob/latest/documentation/Installation.md#installation)
 download gocode from git:https://github.com/nsf/gocode and copy file to gopath and excute command : go build gocode. then config gocode in eclipse
-download godef from git:https://github.com/rogpeppe/godef and copy file to gopath and excute command : go build godef. then config godef in eclipse
-download goru from git:https://github.com/golang/tools and copy file to gopath/src/golang.org/x and excute command : go build tools/cmd/guru. then config goru in eclipse
+download godef from git:https://github.com/rogpeppe/godef and copy file to gopath\github.com\rogpeppe and excute command : go build github.com\rogpeppe\godef. then config godef in eclipse
+download goru from git:https://github.com/golang/tools and copy file to gopath\src\golang.org\x and excute command : go build golang.org\x\tools\cmd\guru. then config goru in eclipse
 install git from https://gitforwindows.org/
 install mingw from https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win64/Personal%20Builds/rubenvb/gcc-4.8-release/
 excute command:go get github.com/apache/thrift/lib/go/thrift
